@@ -15,7 +15,7 @@ A Python CLI tool that automatically generates `.desktop` files for AppImages an
 
 ### Method 1: Direct Download
 ```bash
-curl -fsSL https://kanishkk.me/appimage2desktop | bash
+curl -fsSL https://kanishkk.xyz/appimage2desktop | bash
 ```
 
 ### Method 2: Clone Repository
